@@ -1,0 +1,22 @@
+[
+    {"Pressed": "a"},
+    {"Pressed": "c"},
+    {"Pressed": "h"},
+    {"Pressed": "i"},
+    {"Pressed": "e"},
+    {"Pressed": "v"},
+    {"Pressed": "e"},
+    {"Pressed": "d"},
+    {"Held": "Key.shift"},
+    {"Released": "Key.shift"},
+    {"Pressed": "Key.space"},
+    {"Released": "Key.space"},
+    {"Pressed": "Key.enter"},
+    {"Released": "Key.enter"},
+    {"Pressed": "b"},
+    {"Pressed": "a"},
+    {"Pressed": "c"},
+    {"Pressed": "k"},
+    {"Held": "Key.shift"},
+    {"Released": "Key.shift"}
+]

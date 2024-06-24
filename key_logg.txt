@@ -1,0 +1,20 @@
+'a'
+'c'
+'h'
+'i'
+'e'
+'v'
+'e'
+'d'
+{'Held': 'Key.shift'}
+{'Released': 'Key.shift'}
+{'Pressed': 'Key.space'}
+{'Released': 'Key.space'}
+{'Pressed': 'Key.enter'}
+{'Released': 'Key.enter'}
+'b'
+'a'
+'c'
+'k'
+{'Held': 'Key.shift'}
+{'Released': 'Key.shift'}
